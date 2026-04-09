@@ -19,13 +19,13 @@ Infrastructure as Code: Automatizando provisionamento para não repetir tarefas.
 Observabilidade: Monitorando tudo para agir antes que o problema apareça.
 
 🌱 Além do Terminal:
-🏃‍♂️ Runner: Treinando para bater minha meta de 5km no dia 23/08.
+🏃‍♂️ Runner: Treinando para bater minha meta de 5km.
 
 📖 Leitor: Atualmente mergulhado em filosofia com "A Sociedade do Cansaço".
 
 🎸 Trilha Sonora: No meu fone sempre toca Creed, Radiohead ou algo que ajude a processar a realidade.
 
 📫 Vamos trocar uma ideia?
-LinkedIn 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcospauloferreira/) 
 
 "Not all who wander are lost." – J.R.R. Tolkien
